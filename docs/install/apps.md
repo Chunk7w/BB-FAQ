@@ -61,7 +61,7 @@
 
 ### Hello Minecraft! Launcher (HMCL)
 
-![HMCL](/img/download/HMCL.png)
+![HMCL](/img/download/hmcl.png)
 老牌的免费、开源第三方启动器，全平台可用。Bug 较多，交互较为繁琐，但功能丰富且自由，自定义程度更高，适合老手使用。**游戏崩溃的时候不要发 HMCL 的日志窗口截图！**
 
 [**获取 HMCL**](https://hmcl.huangyuhui.net/) <Badge type="tip" text="官方源" vertical="middle" />
