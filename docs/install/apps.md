@@ -68,7 +68,7 @@
 
 ## McHorse's Mods 徽标
 
-![McHorses_Mods_Color.png](/img/download/McHorses_Mods_Color.png) ![McHorses_Mods_Lines.png](/img/download/McHorses_Mods_Lines.png) ![McHorses_Mods_LinesWhite.png](/img/download/McHorses_Mods_LinesWhite.png)
+![McHorses_Mods_Color.png](/img/download/McHorses_Mods_Color.png) ![McHorses_Mods_Lines.png](/img/download/McHorses_Mods_Lines.png) ![McHorses_Mods_LinesWhite.png](/img/download/McHorses_Mods_LinesWhite.png) ![PoweredByBlockbuster_Expanded.png](/img/download/PoweredByBlockbuster_Expanded.png)
 
 McHorse's Mods 的徽标，也可以视作 Blockbuster 的徽标来使用。包含使用 InkScape 制作的原版徽标文件，以及通过 Adobe Illustrator 制作的重置版徽标。
 
