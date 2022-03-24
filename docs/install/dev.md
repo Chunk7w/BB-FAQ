@@ -14,7 +14,7 @@
 8. 因为是开发版加上马哥自闭了不更新，所以有些 Bug 是开发版也修不动的。
 
 
-[**下载全部开发版模组**](https://www.miaofile.com/s/rdRIV) / [**备用链接**](http://tmp.link/room/61ec53827d06c) <Badge type="tip" text="当前版本：H Vol.3 - 2022-2-24" vertical="middle" />
+[**下载全部开发版模组**](https://www.miaofile.com/s/rdRIV) / [**备用链接**](http://tmp.link/room/61ec53827d06c) <Badge type="tip" text="当前版本：K Vol.4 - 2022-3-24" vertical="middle" />
 
 ::: danger 警告
 请向其他使用者提供本页面，未经允许严禁二次发布文件与下载链接。
